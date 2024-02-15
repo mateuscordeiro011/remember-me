@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Remember Me é uma aplicação front-end web construída durante a edição da **Semana do zero ao programador contratado** (#sds1), evento organizado pela [DevEmDobro](https://devemdobro.com "Site da DevEmDobro").
+Remember Me é uma aplicação front-end web construída durante a edição da **Semana do zero ao programador contratado**, evento organizado pela [DevEmDobro](https://devemdobro.com "Site da DevEmDobro").
 
 A aplicação consiste em uma venda de jogos, onde os mostra o nome e uma descrição do jogo e depois é direcionado a compra do jogo em suas plataformas.
 
